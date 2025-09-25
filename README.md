@@ -8,9 +8,7 @@ Yulu zones are located at all the appropriate locations (including metro station
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
 # How you can help here?
-
 The company wants to know:
-
 Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
 How well those variables describe the electric cycle demands
 
@@ -25,7 +23,6 @@ The objective of this analysis is to identify and understand how various factors
 Basis EDA and Hypothesis testing
 
 # About Data
-
 | Column      | Description                                                                                   |
 |------------|-----------------------------------------------------------------------------------------------|
 | datetime   | Date and time of the record                                                                    |
@@ -40,4 +37,42 @@ Basis EDA and Hypothesis testing
 | casual     | Count of casual users                                                                          |
 | registered | Count of registered users                                                                      |
 | count      | Total count of rental bikes (casual + registered)   
+
+# Solution Approach
+* Data Collection - Source and format of the dataset.
+* Data Cleaning & Preprocessing - Handling missing values, data type conversion and formatting.
+* Exploratory Data Analysis (EDA) - Visualizations, identifying patterns, and performing hypothesis testing
+* Insights -  key take away from the analysis.
+# Recommendations
+#Season
+
+No of bikes rented durin spring season is low, So yulu can provide price deduction, discount or ofers to increse the count.
+
+The demand for yulu bikes peaks during fall and summer seasons, Therefore they should increase the supply of bikes to meet this rising demand.
+
+Yulu would provide bike equipped with rain covers during raining season.
+
+#Weather
+
+Yulu should stock a higher number of electric cycles during clear weather to meet increased demand.
+
+To boost rentals during misty (light fog) and winter conditions, Yulu can invest in bikes equipped with high-intensity LED lights, reflective stickers and anti-slip tires to improve safety and rider confidence.
+
+#Workingday
+
+Offering flexible rental plans for daily commuters to make motorcycles more accessible.
+
+Partnering with companies to provide motorcycles for employee commutes at discounted rates.
+
+Rent motorcycles with ready-made travel routes for holiday trips. Riders get maps, tips, and scenic ride suggestions for a great experience.
+
+Yulu can bring limitted time discounts and cash back offers during holidays to attrack more users.
+
+#Environmental factors
+
+During days with lower humidity, lower windspeed, and moderate temperature, Yulu should ensure adequate availability of bikes, as these conditions are associated with higher rental demand.
+
+Fewer bikes are rented late at night, so Yulu can offer discounts or special deals during those hours to encourage more people to rent. Yulu can target night shift workers, by offering exclusive late-night deals or discounts to encourage more rentals during those hours.
+
+Yulu can utilize low-demand periods to carry out regular maintenance, servicing, and safety checks on their electric cycles. This ensures that bikes remain in optimal condition during peak demand hours and improves user satisfaction and reliability.
  
