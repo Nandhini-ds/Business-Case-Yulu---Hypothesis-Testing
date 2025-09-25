@@ -1,29 +1,29 @@
 # Business-Case-Yulu---Hypothesis-Testing
 
-# About Yulu
+## About Yulu
 Yulu is India’s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Starting off as a mission to eliminate traffic congestion in India, Yulu provides the safest commute solution through a user-friendly mobile app to enable shared, solo and sustainable commuting.
 
 Yulu zones are located at all the appropriate locations (including metro stations, bus stands, office spaces, residential areas, corporate offices, etc) to make those first and last miles smooth, affordable, and convenient!
 
 Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
-# How you can help here?
+## How you can help here?
 The company wants to know:
 Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
 How well those variables describe the electric cycle demands
 
-# Objective
+## Objective
 The objective of this analysis is to identify and understand how various factors such as seasonality, weather conditions, holidays, working days, and other environmental factors affect the usage and rental patterns of shared electric cycles. This insight will help stakeholders optimize operations, marketing strategies, and resource allocation to better meet consumer needs and increase adoption of shared electric cycles.
 
-# Tools Used
+## Tools Used
 * Python
 * Python Libraries and stats module
 
-# Project Type
+## Project Type
 Basis EDA and Hypothesis testing
 
-# About Data
-Data set Link:https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089
+## About Data
+**Data set Link**: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089
 | Column      | Description                                                                                   |
 |------------|-----------------------------------------------------------------------------------------------|
 | datetime   | Date and time of the record                                                                    |
@@ -39,15 +39,15 @@ Data set Link:https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001
 | registered | Count of registered users                                                                      |
 | count      | Total count of rental bikes (casual + registered)   
 
-# Solution Approach
-* Data Collection - Source and format of the dataset.
-* Data Cleaning & Preprocessing - Handling missing values, data type conversion and formatting.
-* Exploratory Data Analysis (EDA) - Visualizations, identifying patterns, and performing hypothesis testing
-* Insights -  key take away from the analysis.
-# Recommendations
+## Solution Approach
+* **Data Collection** - Source and format of the dataset.
+* **Data Cleaning & Preprocessing** - Handling missing values, data type conversion and formatting.
+* **Exploratory Data Analysis (EDA)** - Visualizations, identifying patterns, and performing hypothesis testing
+* **Insights** -  key take away from the analysis.
+## Recommendations
 ### Season
 
-* No of bikes rented during spring season is low, So yulu can provide price deduction, discount or ofers to increse the count.
+* No of bikes rented during spring season is low, So yulu can provide price deduction, discount or offers to increase the count.
 
 * The demand for yulu bikes peaks during fall and summer seasons, Therefore they should increase the supply of bikes to meet this rising demand.
 
